@@ -1,9 +1,0 @@
-﻿  BattleManager.cpp
-C:\Users\82104\OneDrive\바탕 화면\LoLConsole_Game\LoLConsole_Game\BattleManager.cpp(825,22): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\82104\OneDrive\바탕 화면\LoLConsole_Game\LoLConsole_Game\BattleManager.cpp(898,22): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  Skills_Darius.cpp
-  Skills_Ezreal.cpp
-  Skills_MasterE.cpp
-  main.cpp
-  코드를 생성하고 있습니다...
-  LoLConsole_Game.vcxproj -> C:\Users\82104\OneDrive\바탕 화면\LoLConsole_Game\x64\Debug\LoLConsole_Game.exe
